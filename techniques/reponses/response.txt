@@ -1,3 +1,0 @@
-hello
-SHELL=/bin/bash\nWSL_DISTRO_NAME=Debian\nWT_SESSION=4972f794-7d28-475f-ae93-109316bbbbe8\nNAME=BatComputer
-Error command not found
