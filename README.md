@@ -1,6 +1,5 @@
-# SuperSSH
-Application web ( Python/Flask )
-contributeur: [WalidA2D](https://github.com/WalidA2D), [FeitvnX](https://github.com/FeitvnX),
+# SupperSSH
+( Super Programme SSH )
 
 **SuperSSH** est une application web qui permet de lancer une liste de commandes predefinis par un utilisateur sur plusieurs machines, 
 depuis le reseaux avec le protocole ssh, à l'aide de fichier contenants les adresses IPs et les commandes.
@@ -15,3 +14,6 @@ apt install python3 python3-pip mariadb-server
 ```bash
 pip install flask mysql.connector paramiko
 ```
+
+
+### __contributeur: [WalidA2D](https://github.com/WalidA2D), [FeitvnX](https://github.com/FeitvnX)__
